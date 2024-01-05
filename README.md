@@ -1,6 +1,6 @@
 # Prime Mart Dashboard
 
-Welcome to Prime Mart Dashboard, a comprehensive multi-store ecommerce solution that provides a powerful dashboard to manage various aspects of your online stores. This project has been developed by [Your Name] and Mobashirul.
+Welcome to Prime Mart Dashboard, a comprehensive multi-store ecommerce solution that provides a powerful dashboard to manage various aspects of your online stores. This project has been developed by Me (Monir Hossain Rabby) and Mobashirul.
 
 ## Overview
 
